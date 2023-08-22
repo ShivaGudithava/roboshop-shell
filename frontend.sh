@@ -9,5 +9,7 @@ cd /usr/share/nginx/html
 
 unzip /tmp/frontend.zip
 
+shiva
+
 systemctl enable nginx
 systemctl restart nginx
